@@ -13,7 +13,7 @@ We'd like you to record a new, 1-minute video of yourself either telling us abou
 
 How many minutes will you need for your audition presentation (3-8 mins)? Shorter may boost your chances, but be realistic. *
 
-  - 4 minutes 30 seconds
+  - 4 minutes 42 seconds
 
 Please provide any additional links you'd like us to see.
 
@@ -21,14 +21,21 @@ Please provide any additional links you'd like us to see.
     - Scraping web forums for image urls: http://blog.rememberlenny.com/2014/03/07/scraping-web-forums-for-image-urls/
     - NYC OpenData on graffiti: http://blog.rememberlenny.com/2014/02/20/nyc-opendata-on-graffiti/
 
-  - recent talk slides: http://slides.com/rememberlenny/computer-vision-in-the-browser
-    - event: http://www.meetup.com/nychtml5/events/170965392/
+  - most recent talk (12 min): http://slides.com/rememberlenny/computer-vision-in-the-browser
+
   - gallery work: https://www.flickr.com/photos/horsegoo
-  - recent project: https://github.com/rememberlenny/mapmade.io
+  - recent projects: https://github.com/rememberlenny/
+
+  - social media:
+    - twitter https://twitter.com/rememberlenny/
 
   - past talks:
-    - Soka Education Conference - Understanding Education Technologies:  http://www.soka.edu/images/news_events/SESRP/9thconferencetentativeschedule.pdf
+    - Computer vision and machine learning in the browser: http://www.meetup.com/nychtml5/events/170965392/
+    - Soka Education and Digital Education Technologies: Massively Open Online Courses:  http://www.soka.edu/images/news_events/SESRP/9thconferencetentativeschedule.pdf
   - past press: http://www.rememberlenny.com/press
+
+  - popular articles
+    - I returned my Google Glass after 30 days ( +20k readers / +200 social shares ): http://blog.rememberlenny.com/2014/01/05/i-return-ed-my-google-glass-after-30-days/
 
 Please type your email address again. *
 
